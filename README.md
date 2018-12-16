@@ -1,2 +1,0 @@
-# BigDataVirtualMachine
-学习大数据时搭建的虚拟机集群，虚拟机使用的时VMware
